@@ -1,0 +1,115 @@
+
+.container{
+   background-image: url(banner3.png);
+   width: 100%;
+   height: 808px;
+   text-align: right;
+   color:white;
+  
+   font-size: 30px;
+}
+.content{
+   padding: 200px;
+}
+button{
+   background-color: white;
+   color:blue;
+   font-size: 20px;
+   font-weight: 700;
+   border: 0px;
+   border-radius: 5px;
+   margin-bottom: 20px;
+   height: 50px;
+   padding:15px 30px;
+}
+.skills{
+   display: flex;
+   padding:150px;
+   background-color;
+   margin-bottom: 100px;
+   width: 1072px;
+   height: 723px;
+   margin-left: 250px;
+}
+.study{
+  
+   margin-top: 200px;
+   margin-left:100px;
+   font-size: 20px;
+   
+}
+.hide{
+   font-weight: 700;
+}
+.head{
+   display: flex;
+   justify-content: center;
+  
+}
+.skill-item{
+  padding: 80px;
+  
+}
+.item{
+   text-align: center;
+   font-weight: 700;
+   font-size: 30px;
+}
+
+.sheet{
+   background-image: url(images/watch.png);
+ 
+   background-repeat: no-repeat;
+   
+   width: 1140px;
+   height: 500px;
+  margin-left: 400px;
+  color:white;
+  padding: 50px;
+  font-size: 30px;
+}
+.btn{
+margin-top: 30px;
+color:rgb(102, 102, 205);
+}
+.sell{
+   width: 100%;
+   height: 577px;
+   background-color: black;
+   color:white;
+   display: flex;
+   padding-left: 230px;
+   padding-top: 130px;
+
+   
+ 
+
+}
+.step{
+   font-size: 30px;
+}
+.event{
+   margin-left: 400px;
+   font-size: 30px;
+}
+.head2{
+
+   font-weight: 700;
+   font-size: 50px;
+}
+.capture{
+   padding:10px;
+}
+.main{
+   width: 325px;
+   height: 64px;
+   background-color: black;
+   color:white;
+   border: 3px solid bisque;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
+.btn2{
+   background-color: rgb(99, 99, 232);
+   color:white;
+}
