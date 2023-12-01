@@ -1,12 +1,13 @@
 .main-sec{
-   width: 100%;
+   width: 1600px;
 }
 .container{
    background-image: url(banner3.png);
-   width: 100%;
+   width: 1600px;
    height: 808px;
    text-align: right;
    color:white;
+   margin-left: 50px;
   
    font-size: 30px;
 }
@@ -65,7 +66,7 @@ button{
    
    width: 1140px;
    height: 500px;
-  margin-left: 400px;
+  margin-left: 250px;
   color:white;
   padding: 50px;
   font-size: 30px;
@@ -75,7 +76,7 @@ margin-top: 30px;
 color:rgb(102, 102, 205);
 }
 .sell{
-   width: 100%;
+   width: 1450px;
    height: 577px;
    background-color: black;
    color:white;
